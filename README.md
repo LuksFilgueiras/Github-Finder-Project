@@ -1,5 +1,5 @@
-<h1> Github Finder Project <h1>
-<h2> Created by Brad Traversy <h2>
+<h1> Github Finder Project </h1>
+<h2> Created by Brad Traversy </h2>
 
 <p> Platform: Udemy </p>
 <p> Course: Front to Back 2022 </p>
